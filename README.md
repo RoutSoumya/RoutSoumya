@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Emulators**
 
-- 👨‍💻 All of my projects are available at (https://github.com/RoutSoumya)](ABCDEFGH)
+- 👨‍💻 All of my projects are available at https://github.com/RoutSoumya
 
 - 💬 Ask me about **ML, DL and JAVA**
 
