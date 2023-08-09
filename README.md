@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumya</h1>
+<h1 align="center">Hi 👋, I'm Soumya Kanta Rout</h1>
 <h3 align="center">A passionate Java and Open Source Developer from India</h3>
 
 - 🔭 I’m currently working on **Stock Market Predictor**
