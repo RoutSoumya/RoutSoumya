@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoutSoumya](https://github.com/RoutSoumya?tab=repositories)
 
-- 💬 Ask me about **ML, DL and JAVA**
+- 💬 Ask me about **Machine Learning, Deep Learning and JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
