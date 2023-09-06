@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate Machine Learning and Frontend developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaabbb" alt="aaabbb" /></a> </p>
 <p align="left"> <a href="https://twitter.com/abcdcasd" target="blank"><img src="https://img.shields.io/twitter/follow/abcdcasd?logo=twitter&style=for-the-badge" alt="abcdcasd" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Market Pre**
